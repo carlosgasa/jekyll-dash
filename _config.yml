@@ -39,8 +39,9 @@ dash:
 theme: jekyll-dash
 
 plugins:
+ - jekyll/tagging
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-paginate
  - liquid-md5
- - jekyll/tagging
+ 
